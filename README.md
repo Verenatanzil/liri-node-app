@@ -5,20 +5,16 @@ LIRI is a Language Interpretation and Recognition Interface - a command line nod
 ## Examples
 
 **Insert artist name to find upcoming event(s) regarding the artist**
-![concert-this]
-(/images/concert-this.png)
+![concert-this](https://github.com/Verenatanzil/liri-node-app/blob/master/images/concert-this.png)
 
 **Insert song title to find information regarding the song**
-![spotify-this-song]
-(/images/spotify-this.png)
+![spotify-this-song](https://github.com/Verenatanzil/liri-node-app/blob/master/images/spotify-this.png)
 
 **Insert movie title to find information regarding the movie**
-![movie-this]
-(/images/movie-this.png)
+![movie-this](https://github.com/Verenatanzil/liri-node-app/blob/master/images/movie-this.png)
 
 **Takes text from random.txt and then call the function**
-![do-what-it-says]
-(/images/do-what-it-says.png)
+![do-what-it-says](https://github.com/Verenatanzil/liri-node-app/blob/master/images/do-what-it-says.png)
 
 # How it works
 
